@@ -1,34 +1,32 @@
 <h1 align="center">Hi 👋, I'm Vignesh R S</h1>
 
 <h3 align="center">
-🚀 B.Tech CSE Student | Full Stack Developer | DSA Enthusiast | Intreseted in problem solving
+🚀 B.Tech CSE Student | Full Stack Developer | DSA Enthusiast | Interested in Problem Solving
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github;Full+Stack+Developer;DSA+in+C%2B%2B;MERN+Stack+Developer;Building+Projects+%26+Solving+Problems;Future+Software+Engineer;Eager+learner+Building+Real+world+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;Full+Stack+Developer;DSA+in+C%2B%2B;MERN+Stack+Developer;Building+Projects+%26+Solving+Problems;Future+Software+Engineer;Eager+Learner+Building+Real-World+Projects" />
 </p>
 
 ---
 
 # 💡 Developer Motto
 
-> "Consistency beats talent when talent doesn't work hard."
->
-> Learning every day, building impactful projects, and solving problems one step at a time.
+> "Building, learning, and improving every day through code."
 
 ---
 
 # 🙋‍♂️ About Me
 
-🎓 Computer Science Engineering Student
+🎓 B.Tech Computer Science Engineering Student
 
-💻 Improving Data Structures & Algorithms in C++
+💻 Strengthening Data Structures & Algorithms in C++
 
-🌱 Learning Full Stack Development (MERN)
+🌱 Learning Full Stack Development using MERN Stack
 
-☁️ Exploring Cloud Computing & Platform Engineering
+☁️ Exploring Cloud Computing and Platform Engineering
 
-🚀 Passionate about building scalable software solutions
+🚀 Passionate about building scalable and impactful software solutions
 
 🎯 Focused on internships, open-source contributions, and software engineering roles
 
@@ -44,7 +42,7 @@
 
 🚀 Building Full Stack Projects using MERN Stack
 
-📚 Continuously learning System Design, OS, DBMS, and OOPs
+📚 Continuously learning OS, DBMS, OOPs, CN, and System Design
 
 ---
 
@@ -54,7 +52,7 @@
 
 ✅ Master Data Structures & Algorithms
 
-✅ Build 5+ Production-Level Full Stack Projects
+🔄 Build and Deploy 5+ Production-Ready Full Stack Projects
 
 ✅ Contribute to Open Source Projects
 
@@ -69,20 +67,18 @@
 # 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
@@ -90,40 +86,61 @@
 # 📂 Featured Projects
 
 ### 💰 Expense Tracker
-Track expenses and manage budgets efficiently.
+- Track expenses and manage budgets efficiently
+- Interactive dashboard with responsive design
+- Built using HTML, CSS, and JavaScript
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/vigneshrs763/expense-tracker)
+
+---
 
 ### ✅ To-Do Planner
-Task management and productivity application.
+- Organize daily tasks and boost productivity
+- Add, update, and delete tasks easily
+- Clean and responsive user interface
 
-### 🌐 Portfolio Website
-Responsive personal developer portfolio.
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/vigneshrs763/to-do-planner)
+
+---
 
 ### 🎓 Student Management System
-Manage student records and academic information.
+- Manage student records and academic information
+- Dashboard for attendance and analytics
+- Built using HTML, CSS, JavaScript, and Chart.js
 
-## 📊 GitHub Stats
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/vigneshrs763/studentmanagement_system)
 
-![](https://github-readme-stats.vercel.app/api?username=vigneshrs763&theme=tokyonight&show_icons=true)
+---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vigneshrs763&theme=tokyonight)
+### 🚀 Practice Projects Collection
+- Collection of beginner-friendly JavaScript projects
+- Includes Temperature Converter, Calculator, Dice Roller, and more
+- Focused on strengthening JavaScript fundamentals and DOM manipulation
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshrs763&layout=compact&theme=tokyonight)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/vigneshrs763/practice_projects)
 
+---
 
-
-
-
-### Contribution Summary
-- 📅 Activity Graph shows contributions across multiple years
-- 🔥 Streak Stats shows current contribution consistency
-- 📊 GitHub Stats displays commits, repositories, and overall activity from the last 12 months
-- 💻 Top Languages highlights the technologies I use most
-
-# 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshrs763&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshrs763&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshrs763&layout=compact&theme=tokyonight" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshrs763&theme=tokyonight"/>
+</p>
+
+### Contribution Summary
+
+📅 Activity Graph shows contributions across multiple years
+
+🔥 Streak Stats shows current contribution consistency
+
+📊 GitHub Stats displays commits, repositories, and overall activity from the last 12 months
+
+💻 Top Languages highlights the technologies I use most
 
 ---
 
@@ -143,6 +160,20 @@ Manage student records and academic information.
 
 ---
 
+# 📌 Current Focus
+
+🔹 Mastering Data Structures & Algorithms in C++
+
+🔹 Building Full Stack MERN Applications
+
+🔹 Exploring Cloud Computing and DevOps
+
+🔹 Preparing for Software Engineering Roles
+
+🔹 Building Real-World Projects and Strengthening Core CS Concepts
+
+---
+
 # 👀 Profile Views
 
 <p align="center">
@@ -155,9 +186,9 @@ Manage student records and academic information.
 
 📧 Email: **rsvignesh141@gmail.com**
 
-💼 LinkedIn: **https://www.linkedin.com/in/vignesh-r-s-74285b332/**
+💼 LinkedIn: **www.linkedin.com/in/vignesh-r-s-74285b332**
 
-🐙 GitHub: **https://github.com/vigneshrs763**
+🐙 GitHub: **github.com/vigneshrs763**
 
 ---
 
