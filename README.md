@@ -101,19 +101,28 @@ Responsive personal developer portfolio.
 ### 🎓 Student Management System
 Manage student records and academic information.
 
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigneshrs763&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshrs763&layout=compact&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshrs763&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshrs763&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vigneshrs763&theme=tokyonight" />
+</p>
+
+## 📈 Contributions Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshrs763&theme=tokyo-night" />
+</p>
+
+### Contribution Summary
+- 📅 Activity Graph shows contributions across multiple years
+- 🔥 Streak Stats shows current contribution consistency
+- 📊 GitHub Stats displays commits, repositories, and overall activity from the last 12 months
+- 💻 Top Languages highlights the technologies I use most
 
 # 🔥 GitHub Streak
 
