@@ -101,22 +101,17 @@ Responsive personal developer portfolio.
 ### 🎓 Student Management System
 Manage student records and academic information.
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshrs763&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshrs763&layout=compact&theme=tokyonight" height="180"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=vigneshrs763&theme=tokyonight&show_icons=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vigneshrs763&theme=tokyonight" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vigneshrs763&theme=tokyonight)
 
-## 📈 Contributions Overview
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshrs763&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshrs763&theme=tokyo-night" />
-</p>
+
+
+
 
 ### Contribution Summary
 - 📅 Activity Graph shows contributions across multiple years
