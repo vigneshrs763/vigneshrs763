@@ -391,7 +391,7 @@ https://github.com/vigneshrs763/to-do-planner
 
 <p align="center">
 
-<img src="./github-metrics.svg" width="100%">
+<img src="./github-metrics.svg" width="70%">
 
 </p>
 
