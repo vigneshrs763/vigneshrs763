@@ -387,15 +387,10 @@ https://github.com/vigneshrs763/to-do-planner
 ```
 
 ---
-
-# 📊 GitHub Analytics
+# 📊 GitHub Metrics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigneshrs763&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshrs763&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 ---
