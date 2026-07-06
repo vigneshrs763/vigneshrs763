@@ -18,19 +18,19 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vigneshrs763&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Learning-blueviolet?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/vigneshrs763?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/vigneshrs763?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MERN-Developer-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Cloud-Computing-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open-Source-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System-Design-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-Development-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-C++-blue?style=for-the-badge"/>
 
 </p>
 
