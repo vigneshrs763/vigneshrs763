@@ -51,7 +51,7 @@ Role:        Full Stack Developer
 Current:     MERN Stack + Cloud Computing
 Focus:       DSA | Backend | System Design
 Goal:        Software Engineer
-Country:     India 🇮🇳
+Country:     India 
 ```
 
 ---
@@ -173,9 +173,9 @@ Country:     India 🇮🇳
 | MERN Stack | ███████░░ 70% |
 | AWS Cloud | █████░░░░ 45% |
 | Docker | ████░░░░░ 35% |
-| DevOps | ███░░░░░░ 25% |
+| DevOps | ███░░░░░░ 35% |
 | System Design | ████░░░░░ 40% |
-| DSA | ███████░░ 75% |
+| DSA | ███████░░ 55% |
 
 ---
 
@@ -327,16 +327,6 @@ https://github.com/vigneshrs763/to-do-planner
 ---
 
 
-### Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind" />
-</p>
-
-Repository
-
-(Add Repository Link)
-
 ---
 
 # 🏆 Achievements
@@ -442,7 +432,7 @@ Repository
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Actions to generate this automatically.
+
 
 <p align="center">
 
@@ -647,10 +637,10 @@ Repeat 🔄
 | Goal | Status |
 |------|--------|
 | MERN Stack | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ |
-| DSA | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
+| DSA | 🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
 | Cloud Computing | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ |
 | Docker | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ |
-| DevOps | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ |
+| DevOps | 🟩🟩⬜⬜⬜⬜⬜⬜⬜ |
 | Open Source | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ |
 | System Design | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ |
 
