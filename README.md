@@ -18,19 +18,19 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Always-Learning-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always%20Learning-24292F?style=for-the-badge&logo=bookstack&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-24292F?style=for-the-badge&logo=mongodb&logoColor=00ED64"/>
 
-<img src="https://img.shields.io/badge/Cloud-Computing-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-24292F?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
-<img src="https://img.shields.io/badge/Open-Source-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/System-Design-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-24292F?style=for-the-badge&logo=diagramsdotnet&logoColor=blue"/>
 
-<img src="https://img.shields.io/badge/Backend-Development-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Development-24292F?style=for-the-badge&logo=nodedotjs&logoColor=3C873A"/>
 
-<img src="https://img.shields.io/badge/DSA-C++-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA%20in%20C++-24292F?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
 
 </p>
 
