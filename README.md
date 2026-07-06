@@ -390,7 +390,9 @@ https://github.com/vigneshrs763/to-do-planner
 # 📊 GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
+
+<img src="./github-metrics.svg" width="100%">
+
 </p>
 
 ---
