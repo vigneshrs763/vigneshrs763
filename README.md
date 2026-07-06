@@ -386,16 +386,6 @@ https://github.com/vigneshrs763/to-do-planner
 └── Open Source
 ```
 
----
-# 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="./github-metrics.svg" width="70%">
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -417,18 +407,9 @@ https://github.com/vigneshrs763/to-do-planner
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vigneshrs763&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
 ---
 
 # 🐍 Contribution Snake
-
 
 
 <p align="center">
