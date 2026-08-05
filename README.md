@@ -305,7 +305,7 @@ https://github.com/vigneshrs763/expense-tracker
 
 ---
 
-## 🏛️ CivicBrain AI
+## 🏛️ CivicAssist AI
 
 An AI-powered municipal grievance decision support system that assists grievance officers by analyzing citizen complaints, generating concise summaries, identifying the primary issue, recommending the appropriate municipal department, and providing explainable AI insights.
 
@@ -333,7 +333,7 @@ An AI-powered municipal grievance decision support system that assists grievance
 
 ### 📌 Repository
 
-https://github.com/vigneshrs763/civicbrain-ai
+https://github.com/vigneshrs763/CivicAssist_AI
 
 ---
 
