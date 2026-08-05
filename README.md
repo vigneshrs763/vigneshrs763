@@ -303,26 +303,37 @@ https://github.com/vigneshrs763/expense-tracker
 
 ---
 
-## ✅ To-Do Planner
+---
 
-Organize your daily tasks efficiently.
+## 🏛️ CivicBrain AI
 
-### Features
+An AI-powered municipal grievance decision support system that assists grievance officers by analyzing citizen complaints, generating concise summaries, identifying the primary issue, recommending the appropriate municipal department, and providing explainable AI insights.
 
-- Add Tasks
-- Delete Tasks
-- Update Tasks
-- Responsive Design
+### ✨ Features
 
-### Tech Stack
+- 🤖 AI-powered Complaint Analysis
+- 📝 Automatic Complaint Summarization
+- 🎯 Issue Classification
+- 🏢 Department Recommendation
+- 💡 Explainable AI Reasoning
+- ⚡ n8n Workflow Automation
+- 📊 Officer Dashboard
+- 🔐 Secure Authentication
+- 📁 Complaint Management
+
+### 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,docker,git,github" />
 </p>
 
-Repository
+**AI & Automation**
+- Google Gemini API
+- n8n Workflow Automation
 
-https://github.com/vigneshrs763/to-do-planner
+### 📌 Repository
+
+https://github.com/vigneshrs763/civicbrain-ai
 
 ---
 
