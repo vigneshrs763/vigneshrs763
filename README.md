@@ -398,14 +398,14 @@ https://github.com/vigneshrs763/CivicAssist_AI
 ```
 
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshrs763&theme=tokyonight&hide_border=true"/>
-
+  <img 
+    src="https://streak-stats.demolab.com/?user=vigneshrs763&theme=dark&hide_border=true&border_radius=10&card_width=500" 
+    alt="GitHub Streak"
+  />
 </p>
-
 ---
 
 # 📈 Contribution Graph
