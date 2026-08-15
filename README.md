@@ -397,12 +397,11 @@ https://github.com/vigneshrs763/CivicAssist_AI
 └── Open Source
 ```
 
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=vigneshrs763&theme=dark&hide_border=true&border_radius=10&card_width=500" 
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=vigneshrs763&theme=dark&hide_border=true&border_radius=10"
     alt="GitHub Streak"
   />
 </p>
@@ -626,7 +625,7 @@ Repeat 🔄
 | Goal | Status |
 |------|--------|
 | MERN Stack | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ |
-| DSA | 🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
+| DSA | 🟩🟩🟩🟩🟩🟩⬜⬜ |
 | Cloud Computing | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ |
 | Docker | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ |
 | DevOps | 🟩🟩⬜⬜⬜⬜⬜⬜⬜ |
