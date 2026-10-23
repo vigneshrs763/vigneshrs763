@@ -280,26 +280,30 @@ https://github.com/vigneshrs763/studentmanagement_system
 
 ---
 
-## 💰 Expense Tracker
+## 🛍️ ShopEasy – E-Commerce Platform
 
-A modern expense tracking application for managing personal finances.
+A modern online e-commerce platform that allows customers to browse products, shop online, and manage their orders, with dedicated admin portals for managing products, customers, and orders.
 
 ### Features
 
-- 💸 Income & Expense Tracking
-- 📊 Expense Summary
-- 📱 Mobile Friendly
-- 💾 Local Storage
+- 🛒 **Online Shopping** – Browse products and explore categories.
+- 🔍 **Product Search** – Find products easily.
+- 👤 **User Authentication** – Secure customer registration and login.
+- 📦 **Order Management** – Place orders and track order details.
+- 🛠️ **Admin Portal** – Manage products, users, and customer orders.
+- 📊 **Admin Dashboard** – Monitor products, orders, and store activities.
+- 📱 **Responsive Design** – Works on desktop, tablet, and mobile devices.
+- 💾 **SQL Database** – Store and manage product, customer, and order information.
 
 ### Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql" />
 </p>
 
 📌 Repository
 
-https://github.com/vigneshrs763/expense-tracker
+https://github.com/vigneshrs763/shopeasy
 
 ---
 
